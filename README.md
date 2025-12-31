@@ -38,9 +38,8 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 
 ---
 
----
 
-## Model System(11)
+## Model System
 - **User**
 - **Customer**
 - **Expert**

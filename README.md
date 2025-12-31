@@ -65,6 +65,10 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 
 | Method | Endpoint | Person |
 |--------|----------|--------|
+| CRUD    | User | روان |
+| CRUD    | Review | روان |
+| CRUD    | Card | روان |
+| CRUD    | Attachment | روان |
 | GET    | /api/v1/ai/analyze-customer-skills/{customerId} | روان |
 | GET    | /api/v1/experts/get-expert-by-category/{category} | روان |
 | GET    | /api/v1/experts/get-high-rated-by-category/{category} | روان |

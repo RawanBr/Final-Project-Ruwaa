@@ -64,10 +64,6 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 
 
 | الاسم | قام |
-
-
-| شهد | Figma Admin Flow |
-| شهد | Figma Pages Improvement |
 | روان | review CRUD (model, repository, controller, service) |
 | روان | analyzeCustomerSkills – AI |
 | روان | Moyasar Integration – API |

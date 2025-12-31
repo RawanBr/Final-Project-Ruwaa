@@ -63,20 +63,21 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 
 
 
-| الاسم | قام |
-|------|-----|
-| روان | review CRUD (model, repository, controller, service) |
-| روان | analyzeCustomerSkills – AI |
-| روان | getExpertByCategory |
-| روان | getHighRatedExperByCategory |
-| روان | applyDiscount |
-| روان | Accept / Reject / Reject all reviews |
-| روان | getPendingReviews |
-| روان | getReviewsRequest |
-| روان | getSentRequests |
-| روان | getCompletedReviewsByPost |
-| روان | requestReview |
-| روان | Moyasar Integration – API |
-| روان | OpenAI Integration – API |
-| روان | JUnit testing |
-| روان | Use case diagram |
+| Method | Endpoint | Person |
+|--------|----------|--------|
+| GET    | /api/v1/ai/analyze-customer-skills/{customerId} | روان |
+| GET    | /api/v1/experts/get-expert-by-category/{category} | روان |
+| GET    | /api/v1/experts/get-high-rated-by-category/{category} | روان |
+| PUT    | /api/v1/expert/discount/{discountPercentage}/{days} | روان |
+| PUT    | /api/v1/reviews/accept-review/{reviewId} | روان |
+| PUT    | /api/v1/reviews/reject-review/{review_id} | روان |
+| PUT    | /api/v1/reviews/reject-all-reviews | روان |
+| GET    | /api/v1/reviews/get-pending-review | روان |
+| GET    | /api/v1/reviews/request/{expertId}/{workId} | روان |
+| GET    | /api/v1/reviews/get-send-requests | روان |
+| GET    | /api/v1/reviews/completed/post/{postId} | روان |
+| POST   | /api/v1/reviews/request | روان |
+| POST   | /api/v1/payments/moyasar | روان |
+| POST   | /api/v1/openai/analyze | روان |
+| TASK   | JUnit Testing | روان |
+| TASK   | Use Case Diagram | روان |

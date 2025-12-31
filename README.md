@@ -73,11 +73,11 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 | PUT    | /api/v1/reviews/reject-review/{review_id} | روان |
 | PUT    | /api/v1/reviews/reject-all-reviews | روان |
 | GET    | /api/v1/reviews/get-pending-review | روان |
-| GET    | /api/v1/reviews/request/{expertId}/{workId} | روان |
+| POST    | /api/v1/reviews/request/{expertId}/{workId} | روان |
 | GET    | /api/v1/reviews/get-send-requests | روان |
 | GET    | /api/v1/reviews/completed/post/{postId} | روان |
 | POST   | /api/v1/reviews/request | روان |
-| POST   | /api/v1/payments/moyasar | روان |
-| POST   | /api/v1/openai/analyze | روان |
+| API   | Moyasar Integration | روان |
+| API   | OpenAI Integration | روان |
 | TASK   | JUnit Testing | روان |
 | TASK   | Use Case Diagram | روان |

@@ -67,14 +67,16 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 |------|-----|
 | روان | review CRUD (model, repository, controller, service) |
 | روان | analyzeCustomerSkills – AI |
-| روان | Moyasar Integration – API |
-| روان | OpenAI Integration – API |
 | روان | getExpertByCategory |
+| روان | getHighRatedExperByCategory |
 | روان | applyDiscount |
 | روان | Accept / Reject / Reject all reviews |
 | روان | getPendingReviews |
 | روان | getReviewsRequest |
 | روان | getSentRequests |
 | روان | getCompletedReviewsByPost |
-| روان | Use case diagram |
+| روان | requestReview |
+| روان | Moyasar Integration – API |
+| روان | OpenAI Integration – API |
 | روان | JUnit testing |
+| روان | Use case diagram |
